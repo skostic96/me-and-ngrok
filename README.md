@@ -1,4 +1,4 @@
-# Me and NGROK _(The Story - Bromance)_
+# Me and NGROK
 
 The package [ngrok](https://www.npmjs.com/package/ngrok) allows us to provide easy public access to our service.
 
